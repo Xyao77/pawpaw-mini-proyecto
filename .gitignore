@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+outputs/
+models/
+
+*.pyc
+*.h5
+*.keras
+*.mp4
+*.wav
+*.aiff
